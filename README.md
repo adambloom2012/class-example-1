@@ -1,2 +1,3 @@
-# class-example-1
-Open Science Lecture Example
+# Open Science Lecture Example
+
+This is an example...
